@@ -6,6 +6,8 @@
 A los intrépidos buscadores del conocimiento algorítmico...
 ===========================================================
 
+.. image:: /_static/gifs/knight.gif
+
 Aquí, os damos la bienvenida con los brazos abiertos y las mentes llenas de sabiduría. Sois los valientes alumnos que han llegado a esta tierra de algoritmos, donde la lógica se entrelaza con la creatividad y la resolución de problemas se convierte en un arte.
 
 Es menester recordar que estos apuntes, reunidos con tesón y diligencia, **no ostentan el sello oficial de la catedra**, aunque su esencia se nutre de ella.
@@ -20,7 +22,9 @@ Para hacer uso de estos apuntes, te invito a dirigir tus pasos hacia la barra de
 ¡Oíd, valientes colaboradores!
 ------------------------------
 
-El tiempo ha llegado para que os suméis a este noble proyecto en los dominios de GitHub. El anfitrión de estos apuntes, en su humildad y sabiduría, os invita a compartir vuestras visiones y enriquecer este tesoro de conocimiento colectivo.
+El tiempo ha llegado para que os suméis a este noble proyecto en los dominios de `GitHub`__. El anfitrión de estos apuntes, en su humildad y sabiduría, os invita a compartir vuestras visiones y enriquecer este tesoro de conocimiento colectivo.
+
+__ https://github.com/chipacu/aed
 
 Si en vuestro periplo por estas páginas encontráis alguna imperfección o una oportunidad de mejora, os pido que levantéis vuestra voz con valentía. Sed los heraldos del cambio, los guardianes de la excelencia, y compartid vuestro discernimiento para que estos apuntes se vuelvan aún más completos y precisos.
 
