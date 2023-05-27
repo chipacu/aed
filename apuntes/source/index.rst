@@ -8,7 +8,7 @@ A los intrépidos buscadores del conocimiento algorítmico...
 
 .. image:: /_static/gifs/knight.gif
 
-Aquí, os damos la bienvenida con los brazos abiertos y las mentes llenas de sabiduría. Sois los valientes alumnos que han llegado a esta tierra de algoritmos, donde la lógica se entrelaza con la creatividad y la resolución de problemas se convierte en un arte.
+Aquí, os damos la bienvenida con los brazos abiertos y las mentes sedientas de sabiduría. Sois los valientes alumnos que han llegado a esta tierra de algoritmos, donde la lógica se entrelaza con la creatividad y la resolución de problemas se convierte en un arte.
 
 Es menester recordar que estos apuntes, reunidos con tesón y diligencia, **no ostentan el sello oficial de la catedra**, aunque su esencia se nutre de ella.
 
@@ -28,14 +28,57 @@ __ https://github.com/chipacu/aed
 
 Si en vuestro periplo por estas páginas encontráis alguna imperfección o una oportunidad de mejora, os pido que levantéis vuestra voz con valentía. Sed los heraldos del cambio, los guardianes de la excelencia, y compartid vuestro discernimiento para que estos apuntes se vuelvan aún más completos y precisos.
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-
 
 Índice
 ======
 
-* :ref:`genindex`
-* :ref:`search`
+.. toctree::
+   :maxdepth: 2
+   :caption: Información Provechosa:
+
+   info/profesores
+   info/modo-evaluar
+   info/condiciones-aprobar
+   info/biolin
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Antes de Arrancar:
+
+   antes-arrancar/donde-escribir
+   antes-arrancar/como-escribir
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Tipos de datos elementales:
+
+   tipos-de-datos-elementales/enteros
+   tipos-de-datos-elementales/reales
+   tipos-de-datos-elementales/caracter
+   tipos-de-datos-elementales/alfanumericos
+   tipos-de-datos-elementales/booleanos
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Variables y Constantes:
+
+   variables-constantes/variables
+   variables-constantes/constantes
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Acciones Simples:
+
+   acciones-simples/comentarios
+   acciones-simples/asignacion
+   acciones-simples/entrada-datos
+   acciones-simples/salida-datos
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Operadores:
+
+   operadores/aritmeticos
+   operadores/logicos
+   operadores/relacionales

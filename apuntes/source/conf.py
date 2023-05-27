@@ -8,13 +8,19 @@
 
 project = 'Apuntes AED'
 copyright = '2023, Daniel Tossutti (chipaco)'
+html_show_copyright = False
+html_title = "♛ Apuntes AED 2023 by chipaco"
+html_theme_options = {
+    "announcement": "⚠ Prueba de concepto, sitio no terminado ⚠",
+}
+html_favicon = '_static/favicon.ico'
 author = 'Daniel Tossutti (chipaco)'
-release = '0.1'
+release = '0.2'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = ['sphinx_inline_tabs', 'sphinx_copybutton']
 
 templates_path = ['_templates']
 exclude_patterns = []
