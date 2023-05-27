@@ -82,3 +82,11 @@ Si en vuestro periplo por estas páginas encontráis alguna imperfección o una 
    operadores/aritmeticos
    operadores/logicos
    operadores/relacionales
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Condicionales:
+
+   condicionales/simple
+   condicionales/alternativo
+   condicionales/multiple

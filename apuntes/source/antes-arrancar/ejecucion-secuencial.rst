@@ -1,2 +1,0 @@
-Ejecución Secuencial del pseudocódigo
-=====================================
