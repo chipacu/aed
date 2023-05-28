@@ -10,7 +10,7 @@ jobs:
       - uses: actions/setup-python@v3
       - name: Install dependencies
         run: |
-          pip install sphinx furo sphinx-autobuild sphinx-copybutton sphinx-autobuild
+          pip install sphinx furo sphinx-autobuild sphinx-copybutton sphinx-inline-tabs
       - name: Sphinx build
         run: |
           sphinx-build apuntes/source apuntes/build
