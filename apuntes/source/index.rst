@@ -85,8 +85,7 @@ Si en vuestro periplo por estas páginas encontráis alguna imperfección o una 
 
 .. toctree::
    :maxdepth: 2
-   :caption: Condicionales:
+   :caption: Estructuras de control:
 
-   condicionales/simple
-   condicionales/alternativo
-   condicionales/multiple
+   estructuras-control/condicionales-simples-alter
+   estructuras-control/condicional-multiple

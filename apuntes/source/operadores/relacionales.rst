@@ -15,10 +15,10 @@ Donde los valores convergen y las relaciones se entrelazan, surgen los operadore
 
         A < B
     
-    .. admonition:: Los símbolos se parecen a un pico de 🦆.
+    .. admonition:: Los símbolos se parecen a un pico de 🦆. :code:`''<` imaginalo con ojitos
         :class: tip
 
-        El 🦆 siempre se come al más grande :code:`⚪🔴 < 🔵🟡`.
+        El 🦆 siempre se come al mayor :code:`⚪🔴 ''< 🔵🟡`.
 
 .. tab:: Mayor que
 
@@ -26,10 +26,10 @@ Donde los valores convergen y las relaciones se entrelazan, surgen los operadore
 
         A > B
 
-    .. admonition:: Los símbolos se parecen a un pico de 🦆.
+    .. admonition:: Los símbolos se parecen a un pico de 🦆. :code:`>''` imaginalo con ojitos
         :class: tip
 
-        El 🦆 siempre se come al más grande :code:`🔵🟡 > ⚪🔴`.
+        El 🦆 siempre se come al mayor :code:`🔵🟡 >'' ⚪🔴`.
 
 .. tab:: Dintinto que
 

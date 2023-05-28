@@ -9,7 +9,7 @@
 project = 'Apuntes AED'
 copyright = '2023, Daniel Tossutti (chipaco)'
 html_show_copyright = False
-html_title = "♛ Apuntes AED 2023 by chipaco"
+html_title = "♛ Apuntes de chipaco, AED 2023"
 html_theme_options = {
     "announcement": "⚠ Prueba de concepto, sitio no terminado ⚠",
 }
