@@ -32,4 +32,4 @@ pip install sphinx furo sphinx-autobuild sphinx-copybutton sphinx-inline-tabs
 sphinx-autobuild.exe .\apuntes\source .\apuntes\build\html\
 ```
 
-7. Abrí tu navegador y poné http://localhost:8000/
+7. Abrí tu navegador y poné localhost:8000
